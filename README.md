@@ -45,9 +45,7 @@ CedarML provides a standardized format for capturing complex interactions betwee
 The format's strength lies in its ability to:
 - Capture structured interactions
 - Maintain context and relationships
-- Support multiple types of data
 - Enable clear role separation
-- Support metadata and citations
 
 These characteristics make it valuable in any scenario where:
 1. Tool interactions need to be documented
