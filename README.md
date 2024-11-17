@@ -16,7 +16,6 @@ CedarML provides a standardized format for capturing complex interactions betwee
 ## Benefits
 - Clear Separation of Concerns: Distinct tags for different interaction types
 - Maintainable Hierarchy: Structured organization of data and metadata
-- Traceable Command Flow: Clear documentation of command execution and interpretation
 - Context Preservation: Maintains relationship between different interaction elements
 - Role Identification: Clear attribution of messages and actions
 
@@ -48,7 +47,6 @@ The format's strength lies in its ability to:
 - Maintain context and relationships
 - Support multiple types of data
 - Enable clear role separation
-- Preserve command interpretation
 - Support metadata and citations
 
 These characteristics make it valuable in any scenario where:
